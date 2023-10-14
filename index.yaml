@@ -37,16 +37,4 @@ entries:
     urls:
     - https://github.com/justinwyer/wireguard-chart/releases/download/wireguard-0.16.1/wireguard-0.16.1.tgz
     version: 0.16.1
-  - apiVersion: v2
-    appVersion: 0.0.0
-    created: "2023-10-14T13:16:07.500464455Z"
-    description: A Helm chart for managing a wireguard vpn in kubernetes
-    digest: 46bb25d6d1be0c8911f594a29f142e20cccd9764268f16eb739d96b1415bcf53
-    maintainers:
-    - name: bryopsida
-    name: wireguard
-    type: application
-    urls:
-    - wireguard-0.16.1-justinwyer.1.tgz
-    version: 0.16.1-justinwyer.1
 generated: "2023-10-14T13:17:55.304601481Z"
