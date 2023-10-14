@@ -9,7 +9,7 @@ metadata:
     {{- end }}
     app: "{{ .Release.Name }}-wireguard"
   annotations:
-    {{- for key, value := range .Values.service.annotations }}
+    {{- range $key, $value := .Values.service.annotations }}
     {{ key }}: {{ value | quote }}
     {{- end }}
 spec:
