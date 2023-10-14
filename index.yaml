@@ -11,6 +11,6 @@ entries:
     name: wireguard
     type: application
     urls:
-    - https://github.com/justinwyer/wireguard-chart/releases/tag/wireguard-0.16.1
+    - https://github.com/justinwyer/wireguard-chart/releases/download/wireguard-0.16.1/wireguard-0.16.1.tgz
     version: 0.16.1
 generated: "2023-10-14T12:15:11.157839888Z"
